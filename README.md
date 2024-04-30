@@ -18,3 +18,5 @@ The tools I present are:
 -Create Janus, Sandwich, core-shell dispositions for .xyz models
 
 You'll need numpy, random, matplotlib, collections, sys and os libraries
+
+At 29/04/2024 this is not the final version.
